@@ -4,6 +4,7 @@ This repository contains the challenge's puzzles.
 
 We encourage you to upload and share your solutions. To do so, please fork this repository and push your code into your fork. That way, everyone can easily find your solution.
 
+
 Our own solutions to the puzzles are [available here](https://github.com/MichaelSinsbeck/festo-coding-challenge-2020-solutions).
 
 ## 1-1 Maintenance Man - Five XOR Seven
