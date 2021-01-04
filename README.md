@@ -1,10 +1,10 @@
 # Festo Coding Challenge 2020
 
-If you haven't taken up the challenge yet, please do, before reading on. The [challenge is here](https://coding-challenge.festo.com/)
+If you haven't taken up the challenge yet, please do before reading on. The [challenge is here](https://coding-challenge.festo.com/).
 
 This repository contains the challenge's puzzles and encourages everyone to upload and share their solutions.
 
-To do so, please fork this repository and push your code into your fork. That way, everyone can easily find your solution.
+To do so, please fork this repository and push your code into your fork. That way, everyone can easily find your solution by searching through all of the repo's forks. We also suggest you edit the readme in your fork to guide other readers, describe your thought process and highlight parts you are especially proud of.
 
 
 Our own solutions to the puzzles are [available here](https://github.com/MichaelSinsbeck/festo-coding-challenge-2020-solutions).
