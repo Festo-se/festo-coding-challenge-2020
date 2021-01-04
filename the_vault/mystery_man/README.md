@@ -4,7 +4,7 @@ Mystery Man says: "The code is hidden in the image on the page that does not exi
 
 So if we deliberately navigate to an invalid URL context (HTTP 404 = Page Not Found), e.g., [https://coding-challenge.festo.com/blablabla](https://coding-challenge.festo.com/blablabla), we will find a background image referenced in the page's CSS code (`cybersecurity.png`).
 
-Use some Image Editing software to adjust the Brightness / Colors of the image to reveal a secret text that is merged with the image (watermark).
+Use some Image Editing software to adjust the Brightness / Colors of the image to reveal a watermark text.
 
 ![img_editing_with_gimp](Mystery_Man_lv3_404_img_editing.png)
 
