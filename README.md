@@ -1,8 +1,10 @@
 # Festo Coding Challenge 2020
 
-This repository contains the challenge's puzzles.
+If you haven't taken up the challenge yet, please do, before reading on. The [challenge is here](https://coding-challenge.festo.com/)
 
-We encourage you to upload and share your solutions. To do so, please fork this repository and push your code into your fork. That way, everyone can easily find your solution.
+This repository contains the challenge's puzzles and encourages everyone to upload and share their solutions.
+
+To do so, please fork this repository and push your code into your fork. That way, everyone can easily find your solution.
 
 
 Our own solutions to the puzzles are [available here](https://github.com/MichaelSinsbeck/festo-coding-challenge-2020-solutions).
