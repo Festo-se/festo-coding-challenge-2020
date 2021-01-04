@@ -53,7 +53,7 @@ Find the correct sitting order in the office.
 
 Download [puzzle as pdf](files/1_3_social_distance_office.pdf).
 
-Solution code: for each row in the diagram count the number of spaces between the two chairs. Concatenate all eight numbers to get the solution code.
+Solution code: for each row in the diagram count the number of spaces between the two chairs. Concatenate all ten numbers to get the solution code.
 
 ## 1-4 Mystery Man - Follow the Trace
 
