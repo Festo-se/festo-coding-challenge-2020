@@ -16,17 +16,13 @@ parts_we_already_know = [('3','w'), ('s', 'Q')]
 
 firt_16_chars_expected_hash = '002a8a8b23d03e70'
 
-def brute_force_hash(chars):
-  print('trying with {}'.format(chars))
-  possible_permutations = list(itertools.product(*chars))
-  for the_text in possible_permutations:
-    # print('the text: {}'.format(the_text))
-    result = hashlib.md5(''.join(the_text).encode())
-    the_hash = result.hexdigest()
-    print('1st 10 chars of the hash from {}: {}'.format(the_text, the_hash[0:10]))
-    if the_hash[:10] == firt_16_chars_expected_hash[:10]:
-      print('found it! text: {}, hash: {}'.format(the_text, the_hash))
-      sys.exit(0)
+def brute_force_hash(the_text):
+  result = hashlib.md5(''.join(the_text).encode())
+  the_hash = result.hexdigest()
+  print('1st 10 chars of the hash from {}: {}'.format(the_text, the_hash[0:10]))
+  if the_hash[:10] == firt_16_chars_expected_hash[:10]:
+    print('found it! text: {}, hash: {}'.format(the_text, the_hash))
+    sys.exit(0)
 
 for i in four_chars_permutations:
   eight_chars_sections = [
